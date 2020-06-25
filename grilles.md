@@ -43,9 +43,8 @@ Chorus:
 
 ## Limitations / Future Work
 
-[ what would you like to have added or changed in your design? ]
-[ any particular challenges? ]
-[ was a data-driven approach suitable for this problem? ]
-[ any of the reflection questions particularly relevant? ]
+- A simple structure seemed to map quite simply over, not sure about a more
+complex song.
+- I think it would be a good approach to the problem.
 
 
