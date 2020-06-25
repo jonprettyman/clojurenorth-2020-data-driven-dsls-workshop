@@ -33,7 +33,7 @@ Chorus:
 
 
 > (grilles.ireal (minor-swing) )
-<a href="irealbook://Song Title=Minor Swing FirstName=Style=A-={ A- % D- % E7 % A- % D- % A- % Bb7 E7 A- E7 }">Minor Swing</a>
+<a href="irealbook://Song Title=Minor Swing FirstName=Style=A-={ A- |% |D- |% |E7 |% |A- |% |D- |% |A- |% |Bb7 |E7 |A- |E7 }">Minor Swing</a>
 ```
 
 ## References
