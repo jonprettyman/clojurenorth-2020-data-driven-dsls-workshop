@@ -11,15 +11,16 @@ structure and chords and generating different output representations including:
 ```clojure
 
 > (def minor-swing {
- :title "Minor Swing"
- :chorus [
-   { :key 'A-'
-     :measures ['A-' '%' 'D-' '%' 
-                'E7' '%' 'A-' '%' 
-                'D-' '%' 'A-' '%' 
-                'Bb7' 'E7' 'A-' 'E7' }
- ]
-})
+                  :title "Minor Swing"
+                  :chorus [
+                           { :key "A-"
+                             :measures '[ A- % D- % 
+                                          E7 % A- % 
+                                          D- % A- % 
+                                          Bb7 E7 A- E7]
+                            }
+                          ]
+                  })
 
 > (grilles.ascii (minor-swing) )
 
